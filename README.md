@@ -10,5 +10,8 @@ Features:
 - Number of words containing letters and numbers OR only letters;
 
 
-Features were taken from https://www.scirp.org/journal/paperinformation.aspx?paperid=56059.
+Features were taken from the following sources: 
+- https://www.scirp.org/journal/paperinformation.aspx?paperid=56059.
+- https://ieeexplore.ieee.org/document/5447486
+
 
