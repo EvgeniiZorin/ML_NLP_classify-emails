@@ -1,5 +1,7 @@
 # Description
 
+Dataset - Apache SpamAssassin's public dataset https://spamassassin.apache.org/old/publiccorpus/
+
 # ML model
 
 Features:
